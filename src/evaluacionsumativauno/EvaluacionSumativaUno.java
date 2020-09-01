@@ -21,6 +21,7 @@ public class EvaluacionSumativaUno {
         
         System.out.println("Este es mi segundo aporte");
         
+        System.out.println("buena profe estamos en el mismo grupo para la evaluación");
         if (true){
             
         }
